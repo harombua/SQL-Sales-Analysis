@@ -1,0 +1,10 @@
+order_id,order_date,customer_id,product_id,sales,quantity,customer_id,customer_name,city,state,postal_code,product_id,category,sub_category,product_name
+CA-2015-115812,6/9/2015,BH-11710,FUR-FU-10001487,48.86,7,BH-11710,Brosina Hoffman,Los Angeles,California,90032,FUR-FU-10001487,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood"
+CA-2017-105654,12/10/2017,BH-11710,FUR-TA-10000577,71.53,3,BH-11710,Brosina Hoffman,Los Angeles,California,90032,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table
+CA-2017-138688,6/12/2017,DV-13045,OFF-LA-10000240,14.62,2,DV-13045,Darrin Van Huff,Los Angeles,California,90036,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal
+CA-2017-152156,11/8/2017,CG-12520,FUR-BO-10001798,58.96,2,CG-12520,Claire Gute,Henderson,Kentucky,42420,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase
+CA-2018-109265,2/8/2018,BH-11710,OFF-LA-10000240,14.62,5,BH-11710,Brosina Hoffman,Los Angeles,California,90032,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal
+CA-2018-109862,4/9/2018,DV-13045,OFF-PA-10002365,15.552,1,DV-13045,Darrin Van Huff,Los Angeles,California,90036,OFF-PA-10002365,Office Supplies,Paper,Xerox 1967
+CA-2018-112417,6/8/2018,SO-20335,OFF-PA-10002365,15.552,2,SO-20335,Sean O'Donnell,Fort Lauderdale,Florida,33311,OFF-PA-10002365,Office Supplies,Paper,Xerox 1967
+CA-2018-114412,4/11/2018,AA-10480,OFF-PA-10002365,15.552,3,AA-10480,Andrew Allen,Concord,North Carolina,28027,OFF-PA-10002365,Office Supplies,Paper,Xerox 1967
+US-2016-108966,10/11/2017,SO-20335,FUR-TA-10000577,69.65,5,SO-20335,Sean O'Donnell,Fort Lauderdale,Florida,33311,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table
